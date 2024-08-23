@@ -19,6 +19,13 @@
 |2018 - 2021| Weakly-supervised Learning | [ODSAWL(TCSVT)](https://ieeexplore.ieee.org/abstract/document/8554285), [SLT-Net(CVPR)](http://openaccess.thecvf.com/content/CVPR2021/html/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html), [GWSOL(TNNLS)](https://ieeexplore.ieee.org/abstract/document/9899408) |
 |2016 - 2017| Flow estimation, Keypoint detection| [PoseFlow(CVPR)](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_PoseFlow_A_Deep_CVPR_2018_paper.html) |
 
+## Project Experience
+| Time | Task | Name  | Source  |
+|:--------|:--------| :---------:| :---------:|
+|2023 - Present | Medical Image Analysis | AI-powered multi-cancer early detection public welfare program([EN](http://zhejiang.chinadaily.com.cn/lishui/2024-03/05/c_967616.htm), [中文]（http://www.xinhuanet.com/tech/20240223/ba113561f9974296aca94089befed8e1/c.html）), CT-based Survival Prediction ｜Medical AI Laboratory, Damo, Alibaba|
+|2022 - Present | Medical Image Analysis | Nuclei recognition, Lung ultrasound B-Line detection| Xijing Hospital, The Fourth Military Medical University |
+|2021 - 2022 | Object Detection, Keypoint detection| Infrared ship recognition ｜China Aerospace Science and Industry Corporation (CASIC)|
+
 ## My GitHub 
 <!-- Basic information -->
 <img src="https:/github-metrics.svg" />

@@ -24,7 +24,7 @@
 |:--------|:--------| :---------:| :---------:|
 |2023 - Present | Medical Image Analysis | AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction | Medical AI Laboratory, Damo, Alibaba |
 |2022 - Present | Medical Image Analysis | Nuclei recognition, Lung ultrasound B-Line detection | Xijing Hospital, The Fourth Military Medical University |
-|2021 - 2022 | Object Detection, Keypoint detection| Infrared ship recognition ｜China Aerospace Science and Industry Corporation (CASIC)|
+|2021 - 2022 | Object Detection, Keypoint detection | Infrared ship recognition from complex background | China Aerospace Science and Industry Corporation (CASIC) |
 
 ## My GitHub 
 <!-- Basic information -->

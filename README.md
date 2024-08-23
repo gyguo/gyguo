@@ -1,22 +1,16 @@
-## Hi there 👋
-
 <!--
 **gyguo/gyguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- State: I am pursuing my Ph.D. degree in the School of Automation at Northwestern Polytechnical University.
+- Research interests: computer vision, especially weakly supervised learning, knowledge distillation, medical image analysis
 
+ 
+								
 
-## 📊 My GitHub 
+## My GitHub 
 <!-- Basic information -->
 <img src="https:/github-metrics.svg" />
 

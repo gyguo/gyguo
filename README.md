@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub 
 <!-- Basic information -->
-<img src="/github-metrics.svg" />
+<img src="https:/github-metrics.svg" />
 
 <!-- GitHub Data -->
 

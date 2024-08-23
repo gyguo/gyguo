@@ -1,6 +1,3 @@
-<!--
-**gyguo/gyguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
 ##  About Me

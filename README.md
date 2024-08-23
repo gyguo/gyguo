@@ -7,8 +7,8 @@
 ## Research Experience
 | Time | Domain | Papers  | Project |
 |:--------|:--------| :---------:|--------:|
-|2018-2021| Weakly Supervised Learning | [PoseFlow (CVPR)](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_PoseFlow_A_Deep_CVPR_2018_paper.html) | - |
-|2016-2017| Human analysis | [PoseFlow (CVPR)](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_PoseFlow_A_Deep_CVPR_2018_paper.html) | - |
+|2018-2021| Weakly Supervised Learning | [ODSAWL(TCSVT)](https://ieeexplore.ieee.org/abstract/document/8554285), [SLT-Net(CVPR)](http://openaccess.thecvf.com/content/CVPR2021/html/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html), [GWSOL(TNNLS)](https://ieeexplore.ieee.org/abstract/document/9899408) | - |
+|2016-2017| Human analysis | [PoseFlow(CVPR)](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_PoseFlow_A_Deep_CVPR_2018_paper.html) | - |
 
 
 - Aug 2023 - Present: Inter at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)

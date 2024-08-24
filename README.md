@@ -4,7 +4,7 @@
 - **State**: I am pursuing my Ph.D. degree in the School of Automation at Northwestern Polytechnical University, also as a rearch inter at Medical AI Laboratory, Damo, Alibaba.
 - **Research**: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
 
-## Work Experience
+## Education/Work Experience
 - Aug 2023 - Present: **Rearch Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
 - May 2021 - May 2022: **Inter** at third academy of China Aerospace Science and Industry Corporation (CASIC)
 - Sep 2018 - Present: Northwestern Polytechnical University, **PH.D**

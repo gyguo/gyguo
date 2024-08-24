@@ -1,8 +1,8 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
 ##  About Me
-- State: I am pursuing my Ph.D. degree in the School of Automation at Northwestern Polytechnical University.
-- Research: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
+- **State**: I am pursuing my Ph.D. degree in the School of Automation at Northwestern Polytechnical University, also as a rearch inter at Medical AI Laboratory, Damo, Alibaba.
+- **Research**: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
 
 ## Work Experience
 - Aug 2023 - Present: **Rearch Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)

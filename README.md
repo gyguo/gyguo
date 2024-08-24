@@ -26,11 +26,3 @@
 |2023 - Present | Medical Image Analysis | AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction | Medical AI Laboratory, Damo, Alibaba |
 |2022 - Present | Medical Image Analysis | Nuclei recognition, Lung ultrasound B-Line detection | Xijing Hospital, The Fourth Military Medical University |
 |2021 - 2022 | Object Detection, Keypoint detection | Infrared ship recognition from complex background | China Aerospace Science and Industry Corporation (CASIC) |
-
-## My GitHub 
-<!-- Basic information -->
-<img src="https:/github-metrics.svg" />
-
-<!-- GitHub Data -->
-
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gyguo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 

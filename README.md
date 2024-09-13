@@ -46,5 +46,5 @@
 - **$\bullet$** Zhang D, **Guo G**, Zeng W, et al. Generalized Weakly Supervised Object Localization. TNNLS, 2022. 
 - **$\bullet$** **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
 - **$\bullet$** **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
-- **$\bullet$** Zhang D, **Guo G$^{\dagger}$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
+- **$\bullet$** Zhang D, **Guo G** **$^{\dagger}$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
 - **$\bullet$** Zhang D, Han J, **Guo G**, et al. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 

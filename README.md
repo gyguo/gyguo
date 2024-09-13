@@ -1,12 +1,12 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
 ##  About Me
-- **State**: I am pursuing my Ph.D. degree in the School of Automation at Northwestern Polytechnical University, also as a rearch inter at Medical AI Laboratory, Damo, Alibaba.
+- **State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Inter** at Medical AI Laboratory, Damo, Alibaba.
 - **Research**: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
 
 ## Education/Work Experience
-- Aug 2023 - Present: **Rearch Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
-- May 2021 - May 2022: **Inter** at third academy of China Aerospace Science and Industry Corporation (CASIC)
+- Aug 2023 - Present: **Research Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
+- May 2021 - May 2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
 - Sep 2018 - Present: Northwestern Polytechnical University, **Ph.D**
 - Sep 2016 - Jun 2018: Northwestern Polytechnical University, **MA**
 - Sep 2012 - Jun 2016: Nanjing University of Aeronautics and Astronautics, **BA**
@@ -25,3 +25,23 @@
 |2023 - Present | Medical Image Analysis | AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction | Medical AI Lab, Alibaba Damo |
 |2022 - Present | Medical Image Analysis | Nuclei recognition, Lung ultrasound B-Line detection | Xijing Hospital, The Fourth Military Medical University |
 |2021 - 2022 | Object and Keypoint Detection | Infrared ship recognition under complex background | China Aerospace Science and Industry Corporation (CASIC) |
+
+
+## News
+
+
+## Paper List
+$*$ corresponding author; Equal Contribution
+
+- **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
+- Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
+- Yao J, Han L, Yang K, **Guo G**, et al. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
+- Yao J, Han L, **Guo G**, et al. Position-based anchor optimization for point supervised dense nuclei detection. Neural Networks, 2024.
+
+- **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
+- **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
+- **Guo G**, Longfei H, Le W, et al. Semantic-aware Knowledge Distillation with Parameter-free Feature Uniformization. Visual Intelligence, 2023.
+- **Guo G**, Yao J, Xia Y, et al. Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports. arXiv preprint, 2024.
+- Zhang D, **Guo G**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018. 
+- Zhang D, **Guo G**, Zeng W, et al. Generalized Weakly Supervised Object Localization. TNNLS, 2022.  
+- Zhang D, Han J, **Guo G**, et al. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 

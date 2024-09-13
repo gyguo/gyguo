@@ -31,13 +31,12 @@
 
 
 ## Paper List
-$*$ corresponding author; Equal Contribution
+$\ast$ corresponding author; $^{\dagger}$ Equal Contribution
 
 - **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
 - Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
 - Yao J, Han L, Yang K, **Guo G**, et al. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
 - Yao J, Han L, **Guo G**, et al. Position-based anchor optimization for point supervised dense nuclei detection. Neural Networks, 2024.
-
 - **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
 - **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
 - **Guo G**, Longfei H, Le W, et al. Semantic-aware Knowledge Distillation with Parameter-free Feature Uniformization. Visual Intelligence, 2023.

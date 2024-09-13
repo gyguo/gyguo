@@ -1,5 +1,5 @@
 # Guangyu Guo, PhD (Chinese name: 郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
-[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
+[[Google Scholar]](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
 
 ##  About Me
 - **State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Inter** at Medical AI Laboratory, Damo, Alibaba.

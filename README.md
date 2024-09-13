@@ -6,11 +6,11 @@
 - **Research**: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
 
 ## Education/Work Experience
-- Aug 2023 - Present: **Research Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
-- May 2021 - May 2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
-- Sep 2018 - Present: Northwestern Polytechnical University, **Ph.D**
-- Sep 2016 - Jun 2018: Northwestern Polytechnical University, **MA**
-- Sep 2012 - Jun 2016: Nanjing University of Aeronautics and Astronautics, **BA**
+- **$\bullet$** Aug 2023 - Present: **Research Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
+- **$\bullet$** May 2021 - May 2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
+- **$\bullet$** Sep 2018 - Present: Northwestern Polytechnical University, **Ph.D**
+- **$\bullet$** Sep 2016 - Jun 2018: Northwestern Polytechnical University, **MA**
+- **$\bullet$** Sep 2012 - Jun 2016: Nanjing University of Aeronautics and Astronautics, **BA**
 
 ## Research Experience
 | Time | Domain | Papers  |
@@ -38,13 +38,13 @@
 **$^{\ast}$** corresponding author; **$^{\dagger}$** equal contribution
 
 - **$\bullet$** **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
-- Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
-- Yao J, Han L, Yang K, **Guo G**, et al. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
-- **Guo G**, Yao J, Xia Y, et al. Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports. arXiv preprint, 2024.
-- Yao J, Han L, **Guo G**, et al. Position-based anchor optimization for point supervised dense nuclei detection. Neural Networks, 2024.
-- **Guo G**, Longfei H, Le W, et al. Semantic-aware Knowledge Distillation with Parameter-free Feature Uniformization. Visual Intelligence, 2023.
-- Zhang D, **Guo G**, Zeng W, et al. Generalized Weakly Supervised Object Localization. TNNLS, 2022. 
-- **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
-- **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
-- Zhang D, **Guo G$^{\dagger}$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
-- Zhang D, Han J, **Guo G**, et al. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 
+- **$\bullet$** Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
+- **$\bullet$** Yao J, Han L, Yang K, **Guo G**, et al. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
+- **$\bullet$** **Guo G**, Yao J, Xia Y, et al. Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports. arXiv preprint, 2024.
+- **$\bullet$** Yao J, Han L, **Guo G**, et al. Position-based anchor optimization for point supervised dense nuclei detection. Neural Networks, 2024.
+- **$\bullet$** **Guo G**, Longfei H, Le W, et al. Semantic-aware Knowledge Distillation with Parameter-free Feature Uniformization. Visual Intelligence, 2023.
+- **$\bullet$** Zhang D, **Guo G**, Zeng W, et al. Generalized Weakly Supervised Object Localization. TNNLS, 2022. 
+- **$\bullet$** **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
+- **$\bullet$** **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
+- **$\bullet$** Zhang D, **Guo G$^{\dagger}$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
+- **$\bullet$** Zhang D, Han J, **Guo G**, et al. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 

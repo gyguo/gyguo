@@ -37,7 +37,7 @@
 ## Paper List
 **$^{\ast}$** corresponding author; **$^{\dagger}$** equal contribution
 
-- **$\cdot$** **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
+- **$\bullet$** **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
 - Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
 - Yao J, Han L, Yang K, **Guo G**, et al. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
 - **Guo G**, Yao J, Xia Y, et al. Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports. arXiv preprint, 2024.

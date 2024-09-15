@@ -2,8 +2,8 @@
 [[Google Scholar]](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
 
 ##  About Me
-- **State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Inter** at Medical AI Laboratory, Damo, Alibaba.
-- **Research**: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
+- **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Inter** at Medical AI Laboratory, **Damo, Alibaba**.
+- **Research Interests**: **Computer Vision**, especially weakly supervised learning, knowledge distillation, medical image analysis, vision-language learning
 
 ## Education/Work Experience
 - **$\bullet$** Aug 2023 - Present: **Research Inter** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
@@ -35,7 +35,7 @@
 - **$\bullet$** 2024.01: One paper was accepted to Neural Networks. Congratulations to Jieru Yao.
 
 ## Paper List
-**$^{\ast}$** corresponding author; **$^{\dagger}$** equal contribution
+**${\ast}$** corresponding author; **$\dagger$** equal contribution
 
 - **$\bullet$** **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
 - **$\bullet$** Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
@@ -46,5 +46,5 @@
 - **$\bullet$** Zhang D, **Guo G**, Zeng W, et al. Generalized Weakly Supervised Object Localization. TNNLS, 2022. 
 - **$\bullet$** **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
 - **$\bullet$** **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
-- **$\bullet$** Zhang D, **Guo G** **$^{\dagger}$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
+- **$\bullet$** Zhang D, **Guo G** **$\dagger$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
 - **$\bullet$** Zhang D, Han J, **Guo G**, et al. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 

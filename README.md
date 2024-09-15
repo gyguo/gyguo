@@ -35,16 +35,16 @@
 - **$\bullet$** 2024.01: One paper was accepted to Neural Networks. Congratulations to Jieru Yao.
 
 ## Paper List
-**${\ast}$** corresponding author; **$\dagger$** equal contribution
+**$^*$** corresponding author; **$^#$** equal contribution
 
-- **$\bullet$** **Guo G**, Zhang D, Han L, et al. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
-- **$\bullet$** Yang K, Han J, **Guo G**, et al. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
-- **$\bullet$** Yao J, Han L, Yang K, **Guo G**, et al. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
-- **$\bullet$** **Guo G**, Yao J, Xia Y, et al. Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports. arXiv preprint, 2024.
-- **$\bullet$** Yao J, Han L, **Guo G**, et al. Position-based anchor optimization for point supervised dense nuclei detection. Neural Networks, 2024.
-- **$\bullet$** **Guo G**, Longfei H, Le W, et al. Semantic-aware Knowledge Distillation with Parameter-free Feature Uniformization. Visual Intelligence, 2023.
-- **$\bullet$** Zhang D, **Guo G**, Zeng W, et al. Generalized Weakly Supervised Object Localization. TNNLS, 2022. 
-- **$\bullet$** **Guo G**, Han J, Wan F, et al. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
-- **$\bullet$** **Guo G**, Liu Z, Zhao S, et al. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
-- **$\bullet$** Zhang D, **Guo G** **$\dagger$**, Huang D, et al. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
-- **$\bullet$** Zhang D, Han J, **Guo G**, et al. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 
+- **$\bullet$** **Guangyu Guo**, Dingwen Zhang, Longfei Han, Nian Liu, Ming-Ming Cheng, Junwei Han. Pixel Distillation: Cost-flexible Distillation across Image Sizes and Heterogeneous Networks. TPAMI, 2024. 
+- **$\bullet$** Kaihui Yang, Junwei Han, **Guangyu Guo**, Chaowei Fang, Yingzi Fan, Lechao Cheng, Dingwen Zhang. Progressive Adapting and Pruning: Domain-Incremental Learning for Saliency Prediction. ACM TOMM, 2024.
+- **$\bullet$** Jieru Yao, Longfei Han, Kaihui Yang, **Guangyu Guo**, Nian Liu, Xiankai Huang, Zhaohui Zheng, Dingwen Zhang, Junwei Han. Contextual Dependency Vision Transformer for spectrogram-based multivariate time series analysis. Neurocomputing, 2024.
+- **$\bullet$** **Guangyu Guo**, Jiawen Yao, Yingda Xia, Tony CW Mok, Zhilin Zheng, Junwei Han, Le Lu, Dingwen Zhang, Jian Zhou, Ling Zhang. Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports. arXiv preprint, 2024.
+- **$\bullet$** Jieru Yao, Longfei Han, **Guangyu Guo**, Zhaohui Zheng, Runmin Cong, Xiankai Huang, Jin Ding, Kaihui Yang, Dingwen Zhang, Junwei Han. Position-based anchor optimization for point supervised dense nuclei detection. Neural Networks, 2024.
+- **$\bullet$** **Guangyu Guo**, Longfei Han, Le Wang, Dingwen Zhang, Junwei Han. Semantic-aware Knowledge Distillation with Parameter-free Feature Uniformization. Visual Intelligence, 2023.
+- **$\bullet$** Dingwen Zhang, Junwei Han, **Guangyu Guo**, Long Zhao. Generalized Weakly Supervised Object Localization. TNNLS, 2022. 
+- **$\bullet$** **Guangyu Guo**, Junwei Han, Fang Wan, Dingwen Zhang. Strengthen learning tolerance for weakly supervised object localization. CVPR, 2021.
+- **$\bullet$** **Guangyu Guo**, Zhuoyan Liu, Shijie Zhao, Lei Guo, Tianming Liu. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
+- **$\bullet$** Dingwen Zhang, **Guangyu Guo**, Dong Huang, Junwei Han. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
+- **$\bullet$** Dingwen Zhang, Junwei Han, **Guangyu Guo**, Long Zhao. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 

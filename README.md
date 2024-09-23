@@ -1,7 +1,7 @@
 # Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 [[Google Scholar]](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
 [[知乎]](https://www.zhihu.com/people/gyguo95)
-[:email: gyguo95@gmail.com]
+[ :email: gyguo95@gmail.com]
 
 ##  About Me
 - **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Intern** at Medical AI Laboratory, **Damo, Alibaba**.

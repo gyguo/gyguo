@@ -16,6 +16,7 @@
 - **$\bullet$** 2016-2018: Northwestern Polytechnical University, **MA**, supervised by [Prof. Junwei Han](https://scholar.google.com/citations?user=xrqsoesAAAAJ&hl)
 - **$\bullet$** 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
 
+<!--
 ## Research Experience
 | Time | Domain | Papers  |
 |:--------|:--------| :---------:|
@@ -23,13 +24,15 @@
 |2021 - Present| Knowledge distillation | [SPU(Vis. Intell.)](https://link.springer.com/article/10.1007/s44267-023-00003-0), [Pixel Distillation(TPAMI)](https://ieeexplore.ieee.org/abstract/document/10579049) 1 TPAMI under review|
 |2018 - 2022| Weakly-supervised Learning | [ODSAWL(TCSVT)](https://ieeexplore.ieee.org/abstract/document/8554285), [SLT-Net(CVPR)](http://openaccess.thecvf.com/content/CVPR2021/html/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html), [GWSOL(TNNLS)](https://ieeexplore.ieee.org/abstract/document/9899408) |
 |2016 - 2017| Flow estimation, Keypoint detection| [PoseFlow(CVPR)](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_PoseFlow_A_Deep_CVPR_2018_paper.html) |
+-->
+
 
 ## Project Experience
-| Time | Task | Projects  | Source  |
-|:--------|:--------| :---------:| :---------:|
-|2023 - Present | Medical Image Analysis | AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction | Medical AI Lab, Alibaba Damo |
-|2022 - Present | Medical Image Analysis | Nuclei recognition, Lung ultrasound B-Line detection | Xijing Hospital, The Fourth Military Medical University |
-|2021 - 2022 | Object and Keypoint Detection | Infrared ship recognition under complex background | China Aerospace Science and Industry Corporation (CASIC) |
+| Time | Projects  | Source  |
+|:--------|:--------| :---------:|
+|2023 - Present | AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction | Medical AI Lab, Alibaba Damo |
+|2022 - Present | Nuclei recognition in Histopathology Images | Xijing Hospital, The Fourth Military Medical University |
+|2021 - 2022 | Infrared ship recognition under complex background | China Aerospace Science and Industry Corporation (CASIC) |
 
 
 ## News

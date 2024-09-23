@@ -1,4 +1,4 @@
-# Guangyu Guo, PhD (Chinese name: 郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
+# Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 [[Google Scholar]](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
 [[知乎]](https://www.zhihu.com/people/gyguo95)
 

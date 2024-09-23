@@ -28,11 +28,9 @@
 
 
 ## Project Experience
-| Time | Projects  | Source  |
-|:--------|:--------| :---------:|
-|2023 - Present | AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction | Medical AI Lab, Alibaba Damo |
-|2022 - Present | Nuclei recognition in Histopathology Images | Xijing Hospital, The Fourth Military Medical University |
-|2021 - 2022 | Infrared ship recognition under complex background | China Aerospace Science and Industry Corporation (CASIC) |
+- **$\bullet$** 2023-Present: AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction (Medical AI Lab, Alibaba Damo)
+- **$\bullet$** 2022-Present: Nuclei recognition in Histopathology Images (Xijing Hospital, The Fourth Military Medical University)
+- **$\bullet$** 2021-2022: Infrared ship recognition under complex background  (China Aerospace Science and Industry Corporation (CASIC))
 
 
 ## News

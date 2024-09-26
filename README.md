@@ -51,3 +51,7 @@
 - **$\bullet$** **Guangyu Guo**\#, Zhuoyan Liu\#, Shijie Zhao\#\*, Lei Guo, Tianming Liu. Eliminating indefiniteness of clinical spectrum for better screening COVID-19. JBHI, 2021.
 - **$\bullet$** Dingwen Zhang\#, **Guangyu Guo**\#, Dong Huang\#, Junwei Han\*. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
 - **$\bullet$** Dingwen Zhang, Junwei Han\*, **Guangyu Guo**, Long Zhao. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 
+
+## High Star Repository
+- **$\bullet$** [Awesome Weakly-supervised Object Localization](https://github.com/gyguo/awesome-weakly-supervised-object-localization) ![GitHub stars](https://img.shields.io/github/stars/gyguo/awesome-weakly-supervised-object-localization?color=yellow)
+- **$\bullet$** [Awesome Weakly-supervised Semantic Segmentation](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation) ![GitHub stars](https://img.shields.io/github/stars/gyguo/awesome-weakly-supervised-semantic-segmentation?color=yellow) 

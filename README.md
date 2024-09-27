@@ -33,9 +33,10 @@
 
 ## News
 - **$\bullet$** 2024.07: One paper was accepted to TPAMI.
-- **$\bullet$** 2024.04: Congratulations to Kaihui Yang on obtaining the Ph.D qualification of NWPU
+- **$\bullet$** 2024.04: Congratulations to Kaihui Yang on obtainin doctoral position of NWPU
 - **$\bullet$** 2024.01: One paper was accepted to ACM TOMM. Congratulations to Kaihui Yang.
-- **$\bullet$** 2024.01: One paper was accepted to Neural Networks. Congratulations to Jieru Yao.
+- **$\bullet$** 2023.10: One paper was accepted to Neurocomputing. Congratulations to Jieru Yao.
+- **$\bullet$** 2023.10: One paper was accepted to Neural Networks. Congratulations to Jieru Yao.
 
 ## Paper List
 \#: equal contribution; \*: corresponding author.

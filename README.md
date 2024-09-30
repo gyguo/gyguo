@@ -57,8 +57,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)
 
+
+<!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-semantic-segmentation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-object-localization)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=PixelDistillation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=IE-Net)
+-->

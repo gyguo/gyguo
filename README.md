@@ -54,7 +54,7 @@
 - **$\bullet$** Dingwen Zhang, Junwei Han\*, **Guangyu Guo**, Long Zhao. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 
 
 
-## High Stared Repository
+## High Star Repository
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-semantic-segmentation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-object-localization)
 

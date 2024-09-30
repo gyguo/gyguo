@@ -53,15 +53,13 @@
 - **$\bullet$** Dingwen Zhang\#, **Guangyu Guo**\#, Dong Huang\#, Junwei Han\*. Poseflow: A deep motion representation for understanding human behaviors in videos. CVPR. 2018.  
 - **$\bullet$** Dingwen Zhang, Junwei Han\*, **Guangyu Guo**, Long Zhao. Learning object detectors with semi-annotated weak labels. TCSVT, 2018. 
 
-## My Github 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)
 
-
-<!--
+## High Stared Repository
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-semantic-segmentation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-object-localization)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=PixelDistillation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=IE-Net)
--->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)

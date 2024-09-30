@@ -56,3 +56,7 @@
 ## High Star Repository
 - **$\bullet$** [Awesome Weakly-supervised Object Localization](https://github.com/gyguo/awesome-weakly-supervised-object-localization) ![GitHub stars](https://img.shields.io/github/stars/gyguo/awesome-weakly-supervised-object-localization?color=yellow)
 - **$\bullet$** [Awesome Weakly-supervised Semantic Segmentation](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation) ![GitHub stars](https://img.shields.io/github/stars/gyguo/awesome-weakly-supervised-semantic-segmentation?color=yellow) 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo&show_icons=true&theme=transparent)
+

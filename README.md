@@ -1,7 +1,9 @@
 # Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
-[[Google Scholar]](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
-[[知乎]](https://www.zhihu.com/people/gyguo95)
-[ :email: gyguo95@gmail.com]
+
+- [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar: Guangyu Guo](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
+- [![](https://static.is26.com/tmp/icons/zhihu.svg)](https://www.zhihu.com/people/gyguo95)[知乎：郭广宇](https://www.zhihu.com/people/gyguo95)
+- [![](https://static.is26.com/tmp/icons/gmail.svg)](gyguo95@gmail.com)[Mail: gyguo95@gmail.com](gyguo95@gmail.com)
+
 
 ##  About Me
 - **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Intern** at Medical AI Laboratory, **Damo, Alibaba**.

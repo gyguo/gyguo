@@ -14,16 +14,6 @@
 - **$\bullet$** 2016-2018: Northwestern Polytechnical University, **MA**, supervised by [Prof. Junwei Han](https://scholar.google.com/citations?user=xrqsoesAAAAJ&hl)
 - **$\bullet$** 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
 
-<!--
-## Research Experience
-| Time | Domain | Papers  |
-|:--------|:--------| :---------:|
-|2021 - Present| AI for Medical| [IE-Net(JBHI)](https://ieeexplore.ieee.org/document/9357911), [PAE-ASS(Neural Netw.)](https://www.sciencedirect.com/science/article/pii/S0893608023007001), [RG-CD(Arxiv24)](http://arxiv.org/abs/2405.14230) 1 TMI under review|
-|2021 - Present| Knowledge distillation | [SPU(Vis. Intell.)](https://link.springer.com/article/10.1007/s44267-023-00003-0), [Pixel Distillation(TPAMI)](https://ieeexplore.ieee.org/abstract/document/10579049) 1 TPAMI under review|
-|2018 - 2022| Weakly-supervised Learning | [ODSAWL(TCSVT)](https://ieeexplore.ieee.org/abstract/document/8554285), [SLT-Net(CVPR)](http://openaccess.thecvf.com/content/CVPR2021/html/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html), [GWSOL(TNNLS)](https://ieeexplore.ieee.org/abstract/document/9899408) |
-|2016 - 2017| Flow estimation, Keypoint detection| [PoseFlow(CVPR)](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_PoseFlow_A_Deep_CVPR_2018_paper.html) |
--->
-
 
 ## Project Experience
 - **$\bullet$** 2023-Present: AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction (Medical AI Lab, Alibaba Damo)
@@ -55,11 +45,18 @@
 
 
 ## High Star Repository
+[Awesome Weakly-supervised Semantic Segmentation](https://github.com/gyguo/awesome-weakly-supervised-semantic-segmentation) ![GitHub stars](https://img.shields.io/github/stars/gyguo/awesome-weakly-supervised-semantic-segmentation?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/gyguo/awesome-weakly-supervised-semantic-segmentation?color=green&label=Fork)
+
+
+[Awesome Weakly-supervised Object Localization](https://github.com/gyguo/awesome-weakly-supervised-object-localization) ![GitHub stars](https://img.shields.io/github/stars/gyguo/awesome-weakly-supervised-object-localization?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/gyguo/awesome-weakly-supervised-object-localization?color=green&label=Fork)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)
+
+<!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-semantic-segmentation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-object-localization)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=PixelDistillation)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=IE-Net)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)
+-->

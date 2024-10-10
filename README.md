@@ -1,36 +1,23 @@
 # Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
-- [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar: Guangyu Guo](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
-- [![](https://static.is26.com/tmp/icons/zhihu.svg)](https://www.zhihu.com/people/gyguo95)[知乎：郭广宇](https://www.zhihu.com/people/gyguo95)
-- [![](https://static.is26.com/tmp/icons/gmail.svg)](gyguo95@gmail.com)[Mail: gyguo95@gmail.com](gyguo95@gmail.com)
+[![]()]()[Homepage](https://gyguo.github.io/)
+|
+[![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
+|
+[![]()](gyguo95@gmail.com)[Mail](gyguo95@gmail.com)
+: gyguo95@gmail.com
 
 
 ##  About Me
 - **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Intern** at Medical AI Laboratory, **Damo, Alibaba**.
 - **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis, and vision-language model.
 
-## Education/Work Experience
+## Experience
 - **$\bullet$** 2023-Present: **Research Intern** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
 - **$\bullet$** 2021-2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
-- **$\bullet$** 2018-Present: Northwestern Polytechnical University, **Ph.D**, supervised by [Prof. Junwei Han](https://scholar.google.com/citations?user=xrqsoesAAAAJ&hl) and [Prof. Dingwen Zhang](https://scholar.google.com/citations?user=lKFZwK0AAAAJ&hl)
-- **$\bullet$** 2016-2018: Northwestern Polytechnical University, **MA**, supervised by [Prof. Junwei Han](https://scholar.google.com/citations?user=xrqsoesAAAAJ&hl)
+- **$\bullet$** 2018-Present: Northwestern Polytechnical University, **Ph.D**
+- **$\bullet$** 2016-2018: Northwestern Polytechnical University, **MA**
 - **$\bullet$** 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
-
-
-## Project Experience
-- **$\bullet$** 2023-Present: AI-powered multi-cancer early detection public welfare program, CT-based Survival Prediction (Medical AI Lab, Alibaba Damo)
-- **$\bullet$** 2022-Present: Nuclei recognition in Histopathology Images (Xijing Hospital, The Fourth Military Medical University)
-- **$\bullet$** 2021-2022: Infrared ship recognition under complex background  (China Aerospace Science and Industry Corporation (CASIC))
-
-<!--
-## News
-- **$\bullet$** 2024.07: One paper was accepted to TPAMI.
-- **$\bullet$** 2024.04: Congratulations to Kaihui Yang on obtainin doctoral position of NWPU
-- **$\bullet$** 2024.01: One paper was accepted to ACM TOMM. Congratulations to Kaihui Yang.
-- **$\bullet$** 2023.10: One paper was accepted to Neurocomputing. Congratulations to Jieru Yao.
-- **$\bullet$** 2023.10: One paper was accepted to Neural Networks. Congratulations to Jieru Yao.
--->
-
 
 ## Paper List
 \#: equal contribution; \*: corresponding author.
@@ -56,11 +43,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)
-
-<!--
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-semantic-segmentation)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=awesome-weakly-supervised-object-localization)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=PixelDistillation)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyguo\&repo=IE-Net)
--->

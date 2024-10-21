@@ -20,8 +20,7 @@
 - **$\bullet$** 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
 
 ## Paper List
-- ### [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
-- ### [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Homepage Paper List](https://gyguo.github.io/publications.html)
+- ### [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN) ｜ [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Homepage Paper List](https://gyguo.github.io/publications.html)
 
 
 ## High Star Repository

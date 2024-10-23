@@ -13,11 +13,11 @@
 - **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis, and vision-language model.
 
 ## Experience
-- **$\bullet$** 2023-Present: **Research Intern** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
-- **$\bullet$** 2021-2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
-- **$\bullet$** 2018-Present: Northwestern Polytechnical University, **Ph.D**
-- **$\bullet$** 2016-2018: Northwestern Polytechnical University, **MA**
-- **$\bullet$** 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
+- 2023-Present: **Research Intern** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
+- 2021-2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
+- 2018-Present: Northwestern Polytechnical University, **Ph.D**
+- 2016-2018: Northwestern Polytechnical University, **MA**
+- 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
 
 ## Paper List
 - ### [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN) ｜ [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Homepage Paper List](https://gyguo.github.io/publications.html)

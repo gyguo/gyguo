@@ -9,11 +9,10 @@
 
 
 ##  About Me
-- **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**, also as a **Research Intern** at Medical AI Laboratory, **Damo, Alibaba**.
+- **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**.
 - **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis, and vision-language model.
 
 ## Experience
-- 2023-Present: **Research Intern** at Medical AI Laboratory, Damo (达摩院) Alibaba (阿里巴巴)
 - 2021-2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
 - 2018-Present: Northwestern Polytechnical University, **Ph.D**
 - 2016-2018: Northwestern Polytechnical University, **MA**

@@ -8,7 +8,7 @@
 
 ##  About Me
 - **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**.
-- **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis, and vision-language model.
+- **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis.
 
 ## Experience
 - 2021-2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)

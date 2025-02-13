@@ -12,7 +12,7 @@
 
 ## Experience
 - 2021-2022: Inter at the third academy of China Aerospace Science and Industry Corporation (CASIC)
-- 2018-Present: Northwestern Polytechnical University, **Ph.D**
+- 2018-2025: Northwestern Polytechnical University, **Ph.D**
 - 2016-2018: Northwestern Polytechnical University, **MA**
 - 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
 

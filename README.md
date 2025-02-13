@@ -1,8 +1,7 @@
 # Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
 [![]()]()[Homepage](https://gyguo.github.io/)
-|
-[![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
+<![![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)-->
 |
 [![]()](gyguo95@gmail.com)[Mail](gyguo95@gmail.com)
 : gyguo95@gmail.com

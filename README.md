@@ -19,7 +19,6 @@
 - ### [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN) ｜ [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Homepage Paper List](https://gyguo.github.io/publications.html)
 
 
-## Top Langs
+##  Langs
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact)

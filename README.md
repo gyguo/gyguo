@@ -18,5 +18,5 @@
 
 ## Profiles
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github){width=68%}
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyguo\&rank_icon=github)(width=68%)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo\&layout=compact){width=38%}

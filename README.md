@@ -3,7 +3,6 @@
 [![]()]()[Homepage](https://gyguo.github.io/)
 |
 [![]()](gyguo95@gmail.com)[Mail](gyguo95@gmail.com)
-: gyguo95@gmail.comhttps://github.com/gyguo/gyguo/blob/main/README.md
 
 - **Current State**: I am pursuing my Ph.D. degree at **Northwestern Polytechnical University**.
 - **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis.

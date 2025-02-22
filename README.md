@@ -8,8 +8,8 @@
 - **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis.
 
 ## Experience
-- 2018-2025: Northwestern Polytechnical University, **Ph.D**
-- 2016-2018: Northwestern Polytechnical University, **MA**
+- 2023-2025: Research intern at DAMO Academy, Alibaba.
+- 2016-2025: Northwestern Polytechnical University, **MA & Ph.D**
 - 2012-2016: Nanjing University of Aeronautics and Astronautics, **BA**
 
 ## Paper List

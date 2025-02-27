@@ -2,7 +2,7 @@
 
 [![]()]()[Homepage](https://gyguo.github.io/)
 |
-[![]()][Email: gyguo95 @ gmail dot com]
+[![]()]()[**Email:** gyguo95 @ gmail dot com]
 |
 [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
 

@@ -8,9 +8,9 @@
 
 
 
-- **Current**: Ph.D. degree at **Northwestern Polytechnical University**. Research intern at **DAMO Academy, Alibaba**.
+- **Current**: **DAMO Academy, Alibaba**, Medical AI
 - **Education**: **MA & Ph.D** from Northwestern Polytechnical University, **BA** from Nanjing University of Aeronautics and Astronautics.
-- **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in weakly supervised learning, knowledge distillation, medical image analysis.
+- **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in medical image analysis, multi-modal learning.
 
 ## Profiles
 <div style="display: flex; gap: 10px;">

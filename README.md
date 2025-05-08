@@ -8,7 +8,7 @@
 
 
 
-- **Current**: **DAMO Academy, Alibaba**, Medical AI
+- **Current**: **Algorithm expert of DAMO Academy, Alibaba**, **Postdoc of Zhejiang University**
 - **Education**: **MA & Ph.D** from Northwestern Polytechnical University, **BA** from Nanjing University of Aeronautics and Astronautics.
 - **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in medical image analysis, multi-modal learning.
 

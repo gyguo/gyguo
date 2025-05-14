@@ -1,11 +1,10 @@
 # Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
-[![]()]()[Homepage](https://gyguo.github.io/)
-|
 **Email:** gyguo95 @ gmail dot com
 |
-[![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[Google Scholar](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
-
+[![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[**Google Scholar**](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
+|
+[![]()]()[**Homepage**](https://gyguo.github.io/)
 
 
 - **Current**: **Algorithm expert of Alibaba DAMO Academy; Postdoc of Zhejiang University**

@@ -1,4 +1,4 @@
-# Guangyu Guo (郭广宇) 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
+# Guangyu Guo 👋 ![](https://komarev.com/ghpvc/?username=gyguo&color=blue&style=flat-square)
 
 **Email:** gyguo95 @ gmail dot com
 |

@@ -8,7 +8,7 @@
 
 
 - **Current**: **Algorithm expert of DAMO Academy, Alibaba Group; Postdoc of Zhejiang University**
-- **Research Interests**: **Computer Vision** and **Artificial Intelligence** related topics, especially in medical image analysis.
+- **Research Interests**: **Artificial Intelligence** related topics, especially in computer vision and medical image analysis.
 
 ## Profiles
 <div style="display: flex; gap: 10px;">

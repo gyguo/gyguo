@@ -2,9 +2,11 @@
 
 **Email:** gyguo95 @ gmail dot com
 |
+[![]()]()[**Homepage**](https://gyguo.github.io/)
+|
 [![]()](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)[**Google Scholar**](https://scholar.google.com/citations?user=F-mtieAAAAAJ&hl=zh-CN)
 |
-[![]()]()[**Homepage**](https://gyguo.github.io/)
+[![]()]()[**LinkedIn**](https://linkedin.com/in/guangyu-guo-b73400278/)
 
 
 - **Current**: **Algorithm expert of DAMO Academy, Alibaba Group; Postdoc of Zhejiang University**

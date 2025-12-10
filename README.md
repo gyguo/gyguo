@@ -12,8 +12,7 @@
 - **Current**: **Algorithm expert of DAMO Academy, Alibaba Group; Postdoc of Zhejiang University**
 - **Research Interests**: **Artificial Intelligence** related topics, especially in computer vision and medical image analysis.
 
-## Profiles
-<div style="display: flex; gap: 10px;">
+<!-- <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gyguo&rank_icon=github" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyguo&layout=compact" width="43%" />
-</div>
+</div> -->

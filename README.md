@@ -10,7 +10,7 @@
 
 
 - **Current**: **Algorithm expert of DAMO Academy, Alibaba Group; Postdoc of Zhejiang University**
-- **Research Interests**: **Artificial Intelligence** related topics, especially in computer vision and medical image analysis.
+- **Research Interests**: My research interests lie in **artificial intelligence for healthcare**. My current work focuses on agentic AI systems for disease screening and diagnosis, with the goal of translating cutting-edge technologies into real-world clinical practice.
 
 <!-- <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gyguo&rank_icon=github" width="55%" />
